@@ -1,0 +1,4 @@
+dependencies {
+    implementation 'com.termux:termux-app:0.118.0' // Gerçek Termux kaynakları gerekiyorsa fork et
+    implementation 'com.github.miguel:android-serial-terminal:1.0.0' // Terminal emülatörü için örnek
+}
